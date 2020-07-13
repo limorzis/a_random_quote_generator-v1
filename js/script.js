@@ -25,6 +25,12 @@ var quotes = [
        year: 2003
     },
     {
+       quote: 'We all wear masks, metaphorically speaking.',
+       source: 'Dr. Arthur Neuman',
+       citation: 'The Mask',
+       year: 1994
+    },
+    {
        quote: 'Kill the Lawyer!',
        source: 'Rufio',
        citation: 'Hook',
