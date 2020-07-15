@@ -101,7 +101,7 @@ function printQuote() {
     const color = `rgb( ${randomValue()}, ${randomValue()}, ${randomValue()})`;
     return color;
   }
-  document.getElementById("backgroundchange").style.backgroundColor = randomRGB();
+  document.body.style.backgroundColor = randomRGB();
 }
 
 // printQuote()
