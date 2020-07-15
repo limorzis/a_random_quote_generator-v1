@@ -23,7 +23,7 @@ var quotes = [
        source: 'Amber Cole',
        citation: 'A Mighty Wind',
        year: 2003,
-       tag: 'Mechanical Engineering'
+       tag: 'Locomotive Engineering'
     },
     {
        quote: 'We all wear masks, metaphorically speaking.',
